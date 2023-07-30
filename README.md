@@ -40,6 +40,15 @@ Choose the world, or create one and follow the steps. Select the world size and 
 ## 
 After this you will be done and you can join and play with your friends! Have fun!
 
+## Things to keep in mind
+
+- Remember to make backups, local if possible.
+- Terraria has an autosave feature, but if you want to save when closing the server you must do this gracefully. Also the google notebook may turn the server of when some inactivity, so also take that into account to avoid data loss.
+
+## Possible future improvements
+
+- Different services for deployment, such as cloudfare.
+
 ## Special thanks.
 
 Thanks to [thecoder-001](https://github.com/thecoder-001). They created the code for this to be run on Minecraft. I inspired a big part of their code to make mine into reality, and it served as a guide for me to understand how to make this work.\n
