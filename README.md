@@ -23,9 +23,9 @@ Even though it's free, it would be better not to abuse the service that's provid
 5. The console will print something like this: \n
    ```url: NgrokTunnel: "tcp://4.tcp.ngrok.io:14832" -> "localhost:7777"```
 
-When Terraria asks you the IP, you enter it without the port and the tcp://
+When Terraria asks you the IP, you enter it with the port and without the tcp://
 
-![image](https://github.com/whileNazaTrue/terroria/assets/84025828/949af94d-109a-466d-a7ac-a47937827a96)
+![image](https://github.com/whileNazaTrue/terroria/assets/84025828/f2517fc3-2054-4824-a190-356257dea62c)
 
 Leave the port as 7777.
 
@@ -33,7 +33,7 @@ Important notice, this link may change every time the application is changed, gi
 
 5.1 The first time you execute the server you will be prompted to create a new world:
 
-![image](https://github.com/whileNazaTrue/terroria/assets/84025828/3e2b8fda-8687-4416-983b-0e920b125cc6)
+![image](https://github.com/whileNazaTrue/terroria/assets/84025828/bee7c0b0-c121-46fb-b50f-7458df976b6e)
 
 Choose the world, or create one and follow the steps. Select the world size and other things as you wish, but don't alter options regarding port/port forwarding, just press Enter and wait for the world to be generated.
 
