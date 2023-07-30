@@ -24,8 +24,8 @@ Even though it's free, it would be better not to abuse the service that's provid
 5. The console will print something like this: \n
    ```url: NgrokTunnel: "tcp://4.tcp.ngrok.io:14832" -> "localhost:7777"```
 
-When Terraria asks you the IP, you enter it with the port and without the tcp://
-
+When Terraria asks you the IP, you enter it without the port and without the tcp://
+When it asks you the port, in this case you'd put 14832 
 ![image](https://github.com/whileNazaTrue/terroria/assets/84025828/f2517fc3-2054-4824-a190-356257dea62c)
 
 Leave the port as 7777.
