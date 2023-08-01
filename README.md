@@ -18,7 +18,7 @@ Even though it's free, it would be better not to abuse the service that's provid
 1. Go to [Google Colab](https://colab.research.google.com/)
 2. Create a new notebook
 3. Paste the code as instructed in the Terroria.ipynb, in the two separate files. Run them in order. The first file will only need to be executed the first time you run the application. After this for running the server you will have to run the second one only when shutdown and turned on again.
-3.1 REMEMBVER TO WAIT AFTER EXECUTING THE FIRST SCRIPT SO ALL THE FILES ARE EXTRACTED CORRECTLY. After executing it first, wait a minute or two then run the second script.
+3.1 REMEMBER TO WAIT AFTER EXECUTING THE FIRST SCRIPT SO ALL THE FILES ARE EXTRACTED CORRECTLY. After executing it first, wait a minute or two then run the second script.
 4. The console will prompt you to enter a ngrok auth token that you can find [here](https://dashboard.ngrok.com/get-started/your-authtoken).
 4.1 It can happen sometimes that you get an error because all the tunnels are occupied and not free. You can go [here](https://dashboard.ngrok.com/tunnels/agents) and end the agents sessions if it happens.
 5. The console will print something like this: \n
